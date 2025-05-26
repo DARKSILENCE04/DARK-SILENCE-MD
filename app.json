@@ -5,7 +5,7 @@
   "keywords": ["bot"],
   "success_url": "/",
   "env": {
-    "SESSION_ID": {
+    "SESSION_ID"DARK-SILENCE-MD~uNQFlDba#sV4ZnCRNQsq_yNl1uwrrtouex9EWLtFczrFuZah55lM: {
       "description": "Put the session-id here.",
       "required": true,
       "value": ""
