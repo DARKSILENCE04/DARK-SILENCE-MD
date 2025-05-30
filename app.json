@@ -1,26 +1,26 @@
 {
-  "name": "DARK-SILENCE-MD",
-  "description": "JAVASCRIPT WHATSAPP BOT PROJECT POWERD BY SILENTLOVER432 ♥️",
+  "name": "Ξ𓆩»»»𝙓_𝙙𝙖𝙧𝙠»»»𓆪Ξ⎯꯭̽     𓆩𓃮𓆪  𓆩𓃮𓆪  𓆩𓃮𓆪  〆͎   ⎯꯭̽ꪹ𝑳𝑬𝑮𝑬𝑵𝑫--𝑩𝑶𝑰𝑰⎯꯭",
+  "description": "JAVASCRIPT WHATSAPP BOT PROJECT POWERD BY Ξ𓆩»»»𝙓_𝙙𝙖𝙧𝙠»»»𓆪Ξ⎯꯭̽     𓆩𓃮𓆪  𓆩𓃮𓆪  𓆩𓃮𓆪  〆͎   ⎯꯭̽ꪹ𝑳𝑬𝑮𝑬𝑵𝑫--𝑩𝑶𝑰𝑰⎯꯭ ♥️",
   "logo": "https://telegra.ph/file/2a06381b260c3f096a612.jpg",
   "keywords": ["bot"],
   "success_url": "/",
   "env": {
-    "SESSION_ID": {
-      "description": "Put the session-id here.",
+    "SESSION_ID": {UMAR-PRIVATE~Hk5AGbIJ#u3sa8ryGv7FP_8j9khBqZfLkwzJ-0SZN14xl2-1iu1M
+      "description": "UMAR-PRIVATE~Hk5AGbIJ#u3sa8ryGv7FP_8j9khBqZfLkwzJ-0SZN14xl2-1iu1M",
       "required": true,
       "value": ""
     },  
     
-    "ALIVE_IMG": {
+    "ALIVE_IMG": {true
       "description": "paste your image url if you don't have you can use this public url.",
       "required": true,
       "value": "https://files.catbox.moe/9vg76j"
     }, 
     
-    "ALIVE_MSG": {
+    "ALIVE_MSG": {true
       "description": "paste your alive message hear.",
       "required": true,
-      "value": "𝔻𝔸ℝ𝕂-𝕊𝕀𝕃𝔼ℕℂ𝔼-𝕄𝔻 𝔸𝕃𝕀𝕍𝔼 ℕ𝕆𝕎 🤍💫💨"
+      "value": "Ξ𓆩»»»𝙓_𝙙𝙖𝙧𝙠»»»𓆪Ξ⎯꯭̽     𓆩𓃮𓆪  𓆩𓃮𓆪  𓆩𓃮𓆪  〆͎   ⎯꯭̽ꪹ𝑳𝑬𝑮𝑬𝑵𝑫--𝑩𝑶𝑰𝑰⎯꯭ 𝔸𝕃𝕀𝕍𝔼 ℕ𝕆𝕎 🤍💫💨"
     },
     
     "PREFIX": {
@@ -35,139 +35,140 @@
       "value": "public"
     }, 
 
-    "AUTO_VOICE": {
+    "AUTO_VOICE": {true
       "description": "Make it true if you want bot auto voice.",
       "required": true,
       "value": "true"
     }, 
 
-    "AUTO_REPLY": {
+    "AUTO_REPLY": {true
       "description": "Make it true if you want bot auto reply.",
       "required": true,
       "value": "true"
     }, 
 
-    "AUTO_STICKER": {
+    "AUTO_STICKER": {true
       "description": "Make it true if you want bot auto sticker.",
       "required": true,
       "value": "true"
     }, 
 
-    "AUTO_READ_STATUS": {
+    "AUTO_READ_STATUS": {true
       "description": "Make it true if you want bot auto auto_read_status.",
       "required": true,
       "value": "true"
     }, 
 
-    "ANTI_LINK": {
+    "ANTI_LINK": {true
       "description": "Make it true if you want bot auto remove group link.",
       "required": true,
       "value": "true"
     },
 
-    "ANTI_BAD": {
+    "ANTI_BAD": {true
       "description": "Make it true if you want bot auto delete bad words from group example xxx porn etc.",
       "required": true,
       "value": "true"
     }, 
 
-    "ANTI_DEL_PATH": {
+    "ANTI_DEL_PATH": {true
       "description": "type here log if you want detected antidelete in conn.id.",
       "required": false,
       "value": "same"
     }, 
 
-    "FAKE_RECORDING": {
+    "FAKE_RECORDING": {true
       "description": "Make it true if you want bot fake record.",
       "required": true,
       "value": "false"
     },
 
-    "AUTO_REACT": {
+    "AUTO_REACT": {true
       "description": "Make it true if you want bot AutoReact.",
       "required": true,
       "value": "true"
     }, 
 
-    "BOT_NAME": {
+    "BOT_NAME": {true
       "description": "write hear your name.",
       "required": true,
-      "value": "✦𝐃𝐀𝐑𝐊-𝐒𝐈𝐋𝐄𝐍𝐂𝐄-𝐌𝐃✦"
+      "value": "✦Ξ𓆩»»»𝙓_𝙙𝙖𝙧𝙠»»»𓆪Ξ⎯꯭̽     𓆩𓃮𓆪  𓆩𓃮𓆪  𓆩𓃮𓆪  〆͎   ⎯꯭̽ꪹ𝑳𝑬𝑮𝑬𝑵𝑫--𝑩𝑶𝑰𝑰⎯꯭✦"
     }, 
 
-    "HEART_REACT": {
+    "HEART_REACT": {true
+      
       "description": "Make it true if you want bot only heart ♥️ emjois reaction .",
       "required": true,
       "value": "false"
     }, 
 
-    "READ_MESSAGE": {
+    "READ_MESSAGE": {true
       "description": "Make it true if you want bot read your all sms just now.",
       "required": true,
       "value": "false"
     }, 
     
-    "CAPTION": {
+    "CAPTION": {true
       "description": "enter your caption if you want to show on menu.",
       "required": true,
-      "value": "𝐏𝐎𝐖𝐄𝐑𝐄𝐃 𝐁𝐘 𝐒𝐈𝐋𝐄𝐍𝐓𝐋𝐎𝐕𝐄𝐑432"
+      "value": "𝐏𝐎𝐖𝐄𝐑𝐄𝐃 𝐁𝐘 Ξ𓆩»»»𝙓_𝙙𝙖𝙧𝙠»»»𓆪Ξ⎯꯭̽     𓆩𓃮𓆪  𓆩𓃮𓆪  𓆩𓃮𓆪  〆͎   ⎯꯭̽ꪹ𝑳𝑬𝑮𝑬𝑵𝑫--𝑩𝑶𝑰𝑰⎯꯭"
     }, 
     
-    "STATUS_REPLY": {
+    "STATUS_REPLY": {true
       "description": "enter your caption if you want to show on status reply.",
       "required": false,
-      "value": "🂱 𝐘𝐎𝐔𝐑 𝐒𝐓𝐀𝐓𝐔𝐒 𝐒𝐄𝐄𝐍 𝐀𝐍𝐃 𝐋𝐈𝐊𝐄 𝐉𝐔𝐒𝐓 𝐍𝐎𝐖 𝐖𝐈𝐀 𝐃𝐀𝐑𝐊-𝐒𝐈𝐋𝐄𝐍𝐂𝐄-𝐌𝐃 🂱"
+      "value": "🂱 𝐘𝐎𝐔𝐑 𝐒𝐓𝐀𝐓𝐔𝐒 𝐒𝐄𝐄𝐍 𝐀𝐍𝐃 𝐋𝐈𝐊𝐄 𝐉𝐔𝐒𝐓 𝐍𝐎𝐖 𝐖𝐈𝐀 Ξ𓆩»»»𝙓_𝙙𝙖𝙧𝙠»»»𓆪Ξ⎯꯭̽     𓆩𓃮𓆪  𓆩𓃮𓆪  𓆩𓃮𓆪  〆͎   ⎯꯭̽ꪹ𝑳𝑬𝑮𝑬𝑵𝑫--𝑩𝑶𝑰𝑰⎯꯭ 🂱"
     },
     
-    "AUTO_REPLY_STATUS": {
+    "AUTO_REPLY_STATUS": {true
       "description": "you can true or false it.",
       "required": true,
       "value": "true"
     }, 
 
-    "ALWAYS_ONLINE": {
+    "ALWAYS_ONLINE": {true
       "description": "make it true if you want to show always online.",
       "required": true,
       "value": "true"
     }, 
     
-    "FAKE_TYPING": {
+    "FAKE_TYPING": {true
       "description": "make it true if you want to show fake typing.",
       "required": true,
       "value": "true"
     }, 
     
-    "CURRENT_STATUS": {
+    "CURRENT_STATUS": {true
       "description": "make it true if you to show your reail last seen.",
       "required": true,
       "value": "false"
     }, 
     
-    "READ_CMD": {
+    "READ_CMD": {true
       "description": "make it true if you want bot auto read commands",
       "required": true,
       "value": "true"
     }, 
     
-    "STATUS_REACT": {
+    "STATUS_REACT": {true
       "description": "make it true if you want to show on status react.",
       "required": true,
       "value": "true"
     },
 
-    "OWNER_NUMBER": {
+    "OWNER_NUMBER": {923360607835
       "description": "replace it with your own number.",
       "required": false,
-      "value": "923096287432"
+      "value": "923360607835"
     }, 
 
-    "OWNER_NAME": {
+    "OWNER_NAME": {Ξ𓆩»»»𝙓_𝙙𝙖𝙧𝙠»»»𓆪Ξ⎯꯭̽     𓆩𓃮𓆪  𓆩𓃮𓆪  𓆩𓃮𓆪  〆͎   ⎯꯭̽ꪹ𝑳𝑬𝑮𝑬𝑵𝑫--𝑩𝑶𝑰𝑰⎯꯭
       "description": "replace it with your own name.",
       "required": false,
-      "value": "➺ѕเℓεɳƭ_ℓσѵε૨࿐"
+      "value": "➺Ξ𓆩»»»𝙓_𝙙𝙖𝙧𝙠»»»𓆪Ξ⎯꯭̽     𓆩𓃮𓆪  𓆩𓃮𓆪  𓆩𓃮𓆪  〆͎   ⎯꯭̽ꪹ𝑳𝑬𝑮𝑬𝑵𝑫--𝑩𝑶𝑰𝑰⎯꯭_ℓσѵε૨࿐"
      },
 
-    "INBOX_BLOCK": {
+    "INBOX_BLOCK": {true
       "description": "make it true if you sure you want to block inbox user.",
       "required": true,
       "value": "false"
