@@ -15,7 +15,7 @@
 **`USE THIS LINK 🔗 FOR OTHER 🍽️ PLATFORMS TO DEPLOY DARK-SILENCE-MD 🩶`**
 
 ```
-https://github.com/DARKSILENCE04/DARK-SILENCE-MD
+
 ```
 ---
 
@@ -175,10 +175,10 @@ jobs:
 
 
 ## 👑 ✠ PROJECT OWNER ✠
-`HII DEARS FRIENDS IF YOU WANT ANY HELP SO YOU CAN CONTACT↘︎ WITH ME WIA WHATSAPP ITS ME ♡SILENT LOVER⁴³²࿐➺`
+`HII DEARS FRIENDS IF YOU WANT ANY HELP SO YOU CAN CONTACT↘︎ WITH ME WIA WHATSAPP ITS ME ♡SILENT LOVER⁹⁵⁵࿐➺`
 
 <p align="">
-<a href='https://wa.me/+923096287432?text=*HII+SIR+I+NEDD+HELP!.+IM+MSG+YOU+FROM+DARK-SILENCE+MD!!*' target="_blank"><img alt='Replit' src='https://img.shields.io/badge/ Whatsapp -25D366?style=for-the-badge&logo=whatsapp&logoColor=white'/< width=150 height=28/p></a> </a>
+<a href='https://wa.me/+923183895955?text=*HII+SIR+I+NEDD+HELP!.+IM+MSG+YOU+FROM+DARK-SILENCE+MD!!*' target="_blank"><img alt='Replit' src='https://img.shields.io/badge/ Whatsapp -25D366?style=for-the-badge&logo=whatsapp&logoColor=white'/< width=150 height=28/p></a> </a>
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
 
@@ -186,7 +186,7 @@ jobs:
 `✠ STAY CONNECTED WITH THE LATEST UPDATES AND COMMUNITY OF DARK-SILENCE-MD BY JOINING OUR OFFICIAL WHATSAPP CHANNEL.✠`
 
 
-[![WhatsApp Channel](https://img.shields.io/badge/JOIN-WHATSAAP%20CHANNEL-25D366?style=for-the-badge&logo=whatsapp)](https://whatsapp.com/channel/0029VaHO5B0G3R3cWkZN970s)
+[![WhatsApp Channel]
 
 ---------
 
