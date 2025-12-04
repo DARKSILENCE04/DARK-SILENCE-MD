@@ -4,13 +4,13 @@
   "description": "A WhatsApp bot created using Node.js",
   "main": "start.js",
   "scripts": {
-    "start": "pm2 start start.js --deep-monitoring --attach --name DARK-SILENCE-MD",
-    "stop": "pm2 stop DARK-SILENCE-MD",
-    "restart": "pm2 restart DARK-SILENCE-MD"
+    "start": "pm2 start ecosystem.config.js",
+    "stop": "pm2 stop all",
+    "restart": "pm2 restart all"
   },
   "engines": {
     "node": "20.x",
-    "npm": "10.x"
+    "npm": "11.x"
   },
   "dependencies": {
     "@adiwajshing/keyed-db": "^0.2.4",
@@ -49,7 +49,7 @@
     "chatgpt-scraper": "^1.0.1",
     "cheerio": "^1.0.0-rc.12",
     "crypto-digest-sync": "^1.0.0",
-    "crypto-js": "4.1.1",
+    "crypto-js": "^4.1.1",
     "dandi-api": "1.2.0",
     "emoji-api": "3.0.1",
     "emoji-mixer": "1.0.33",
@@ -65,7 +65,7 @@
     "fraction.js": "^4.3.7",
     "fs-extra": "^11.1.0",
     "g4f": "1.4.6",
-    "gemini-ai": "1.0.0",
+    "gemini-ai": "^1.0.0",
     "getscreenshot.js": "1.0.0",
     "gms-mobile-news": "1.0.0",
     "google-image-sr": "^1.0.0",
@@ -84,7 +84,7 @@
     "nima-wabeta-info": "1.0.5",
     "node-fetch": "^2.6.1",
     "node-cache": "5.1.2",
-    "pastebin-js": "1.1.0",
+    "pastebin-js": "^1.0.5",
     "pino": "^9.5.0",
     "pm2": "^6.0.8",
     "qr-image": "3.2.0",
