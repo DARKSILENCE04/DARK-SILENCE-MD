@@ -2,9 +2,9 @@
   "name": "DARK-SILENCE-MD",
   "version": "1.0.3",
   "description": "A WhatsApp bot created using Node.js",
-  "main": "start.js",
+  "main": "index.js",
   "scripts": {
-    "start": "pm2 start start.js --deep-monitoring --attach --name DARK-SILENCE-MD",
+    "start": "pm2 start index.js --deep-monitoring --attach --name DARK-SILENCE-MD",
     "stop": "pm2 stop DARK-SILENCE-MD",
     "restart": "pm2 restart DARK-SILENCE-MD"
   },
