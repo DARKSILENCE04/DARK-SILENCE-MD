@@ -15,24 +15,28 @@
       "description": "paste your image url if you don't have you can use this public url.",
       "required": true,
       "value": "https://telegra.ph/file/2a06381b260c3f096a612.jpg"
+      
     }, 
     
     "ALIVE_MSG": {
       "description": "paste your alive message hear.",
       "required": true,
       "value": "ℍ𝕀𝕀 𝔻𝔼𝔸ℝ 𝕌𝕊𝔼ℝ 𝔻𝔸ℝ𝕂-𝕊𝕀𝕃𝔼ℕℂ𝔼-𝕄𝔻 𝔸𝕃𝕀𝕍𝔼 ℕ𝕆𝕎 ℙ𝕆𝕎𝔼ℝ𝔼𝔻 𝔹𝕐 𝕊𝕀𝕃𝔼ℕ𝕋𝕃𝕆𝕍𝔼ℝ 🤍💫💨"
+    
     },
     
     "PREFIX": {
       "description": "paste your bot prefix note! Don't apply null prefix.",
       "required": true,
       "value": "."
+    
     },
     
     "MODE": {
       "description": "select your bot work type public-private-inbox-group.",
       "required": true,
       "value": "public"
+    
     }, 
 
     "AUTO_VOICE": {
