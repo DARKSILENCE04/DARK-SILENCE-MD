@@ -30,10 +30,10 @@ function convertToBool(text, fault = 'true') {
     return text === fault ? true : false;
 }
 
-module.exports = {
-    SESSION_ID: process.env.SESSION_ID || "enter your session",
+module.exports = 
+    SESSION_ID: process.env.SESSION_ID || "DARK-SILENCE-MD~rVUWCYba#KEIA811YXzO3N4TcPiRpIhZraFgCavToNw-CP-re3G0"
     CAPTION: process.env.CAPTION || "POWERED BY SILENTLOVER432",
-    AUTO_READ_STATUS: process.env.AUTO_READ_STATUS || "true",
+    AUTO_READ_STATUS: process.env.AUTO_READ_STATUS || "false",
     AUTO_REPLY_STATUS: process.env.AUTO_REPLY_STATUS || "false",
     READ_MESSAGE: process.env.READ_MESSAGE || "false", // Added auto-read configuration
     MODE: process.env.MODE || "public",
