@@ -87,7 +87,7 @@ https://github.com/DARKSILENCE04/DARK-SILENCE-MD
 ----------
 
 <p align="center">
-<a href='https://pair-dark-silence-md.onrender.com' target="_blank">
+<a href='https://base-pair-dark-silence-md.onrender.com' target="_blank">
   <img alt='Pairing Code' src='https://img.shields.io/badge/Get%20Session%20id-FF0000?style=for-the-badge&logo=opencv&logoColor=black'/>
 </a>
 
