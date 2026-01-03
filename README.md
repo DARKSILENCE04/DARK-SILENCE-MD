@@ -79,7 +79,7 @@ https://github.com/DARKSILENCE04/DARK-SILENCE-MD
   
 ### <br>02.  ❖ 𝐆𝐄𝐓 𝐘𝐎𝐔𝐑 𝐒𝐄𝐒𝐒𝐈𝐎𝐍-𝐈'𝐃 ❖
 
-`✠ IF YOU DON'T HAVE YOUR SESSION_ID SO U CAN GET IT CLICK ON SESSION_ID BUTTON AND PASTE YOUR NUMBER With COUNTRY CODE EXAMPLE:92309xxxxxx THEN YOU CAN GET YOUR SESSION_ID ✠`
+`✠ IF YOU DON'T HAVE YOUR SESSION_ID SO U CAN GET IT CLICK ON SESSION_ID BUTTON AND PASTE YOUR NUMBER With COUNTRY CODE EXAMPLE:92309xxxxxx THEN YOU CAN GET YOUR SESSION_ID FIRST PAIR (BASE64) LONG SESSION_ID, SECOND PAIR SHORT (MEGA.NZ) SESSION_ID✠`
 
 
 > **1. 🔷 𝐏𝐀𝐈𝐑 𝐖𝐄𝐁 𝐒𝐄𝐒𝐒𝐈𝐎𝐍-𝐈'𝐃 🔷**
@@ -87,7 +87,7 @@ https://github.com/DARKSILENCE04/DARK-SILENCE-MD
 ----------
 
 <p align="center">
-<a href='https://pair-dark-silence-md.onrender.com' target="_blank">
+<a href='https://base-pair-dark-silence-md.onrender.com' target="_blank">
   <img alt='Pairing Code' src='https://img.shields.io/badge/Get%20Session%20id-FF0000?style=for-the-badge&logo=opencv&logoColor=black'/>
 </a>
 
