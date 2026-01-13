@@ -115,6 +115,7 @@
         "wa-sticker-formatter": "^4.4.4",
         "webtorrent": "2.5.1",
         "youtubedl-core": "4.11.7",
+        "ytdl-core": "4.11.5",
         "ytdl-mp3": "3.4.0",
         "ytdl-secktor": "latest",
         "ytmp3-scrap": "1.0.0",
